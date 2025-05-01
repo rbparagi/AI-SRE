@@ -1,0 +1,3 @@
+export DYNATRACE_API_TOKEN="dt0c01..."
+export OPENAI_API_KEY="sk-..."
+streamlit run main.py
